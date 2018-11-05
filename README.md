@@ -3,4 +3,4 @@ The tonality of the song is used as a sign when building a recommendation system
 
 ## Project contained in jupyter notebook, made as a research for Russian Southern Federal University (sfedu.ru)
 
-![prewiew](https://github.com/poltavski/musical_key_recognition/imgs/musical_key.jpg)
+![prewiew](https://github.com/poltavski/musical_key_recognition/imgs/musical_key.png)
